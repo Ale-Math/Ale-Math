@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alexander!
-💻 Software Engineer who is interested in technology<br>🌱 I’m currently learning Docker, Kubernetes(Devops)<br>💼 Currently working on MERN stack<br>👨🏻‍💻 Excited to learn about new technologies<br>
+💻 Software Engineer who is interested in learning new technologies<br>🌱 I’m currently learning Docker, Kubernetes(Devops)<br>💼 Currently working on MERN stack<br>👨🏻‍💻 Excited to learn about new technologies<br>
 
 
 ## 🌐 Socials:
